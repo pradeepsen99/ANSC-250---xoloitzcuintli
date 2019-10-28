@@ -149,7 +149,7 @@ blockquote {
   background-image: url(../img/infinite-loop-01.jpg);
   background-repeat: no-repeat;
   height: 100vh;
-  min-height: 150px;
+  min-height: 375px;
   position: relative;
 }
 
