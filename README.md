@@ -1,6 +1,6 @@
-# silversquadstudios.com
+# https://pradeepsen99.github.io/ANSC-250---xoloitzcuintli
 
-This is the html, css, js code for the website [silversquadstudios.com](http://silversquadstudios.com/) 
+This is the html, css, js code for the website [https://pradeepsen99.github.io/ANSC-250---xoloitzcuintli](https://pradeepsen99.github.io/ANSC-250---xoloitzcuintli) 
 
 ## Getting Started
 
